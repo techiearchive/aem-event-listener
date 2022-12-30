@@ -1,6 +1,6 @@
 # Sample AEM project
 
-This repository is AEM learning purpose. It's a sample AEM repository have some aem based features.
+This repository is AEM learning purpose. It's have an OSGI event listener code and configuration.
 
 ## Modules
 
